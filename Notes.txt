@@ -1,0 +1,12 @@
+Class:
+ class is a design or a blueprint or tampletesz which contains states and behaviour (states- properties or data members or variables or fields).
+ 
+Object:Its is instance
+purpose of object:
+    if we need multiple copy of class then go for objects.
+	new keyword used to create the object.
+	
+lenskart
+sensors
+fasttrack
+chain
