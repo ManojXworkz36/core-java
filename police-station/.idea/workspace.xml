@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="591d4a64-85c0-4c54-bab8-c6fc2094def7" name="Changes" comment="" />
+    <list default="true" id="1a21968c-67ac-44f0-8386-021f106d5a3f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,51 +23,31 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectId" id="2WVpO35xTqRMe2LxxizuTwJcqCT" />
+  <component name="ProjectId" id="2WhDDC66Xmb31f8o3udjzKoz4Mm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/IdeaProjects/software-management-system&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/police-station/lib"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\USER\IdeaProjects\software-management-system\lib" />
+      <recent name="C:\Users\USER\IdeaProjects\police-station\lib" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="AppTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xworkz.playstoreapp.AppTester" />
-      <module name="software-management-system" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xworkz.playstoreapp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.AppTester" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="591d4a64-85c0-4c54-bab8-c6fc2094def7" name="Changes" comment="" />
-      <created>1696827573215</created>
+      <changelist id="1a21968c-67ac-44f0-8386-021f106d5a3f" name="Changes" comment="" />
+      <created>1697175799151</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1696827573215</updated>
+      <updated>1697175799151</updated>
     </task>
     <servers />
   </component>
